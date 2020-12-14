@@ -1,0 +1,41 @@
+/* #summon {
+    background-color: white;
+    color: blueviolet;
+    border: 5px solid gold;
+} */
+
+#border {
+    border: 10px solid blueviolet;
+}
+
+h1 {
+    color:  #CCCCCC;
+}
+
+h2 {
+    color: #CCCCCC;
+}
+
+body {
+    background-color: #000077;
+}
+
+.light {
+    height: 120px;
+    width: 120px;
+    background-color: gold;
+    border: 5px solid blueviolet;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+.dark {
+    height: 120px;
+    width: 120px;
+    background-color: blueviolet;
+    border: 5px solid gold;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+}
